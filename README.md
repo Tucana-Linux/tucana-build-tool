@@ -6,6 +6,7 @@ The tool to use the build-scripts
 # Roadmap
 - [x] Autoset Enviornment Variables from Configuration
 - [ ] Chroot Creation
+- [ ] Integration with Repository to Auto-Push New Packages
 - [ ] Injest enviornment variables in scripts
 - [ ] Folder Structure instead of named-build-scripts
 - [ ] Build Order Generator
